@@ -26,3 +26,4 @@ You can follow the step-by-step implementation of this app on my Youtube Channel
 
 https://user-images.githubusercontent.com/103980/186558099-59ded8cf-349f-4c98-aba2-9d569a18bb9e.mp4
 
+https://youtube.com/playlist?list=PLPLcAzuCoR9-MtDrsgXfAoqICuTdA6JPa  
